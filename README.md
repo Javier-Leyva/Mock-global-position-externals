@@ -1,4 +1,4 @@
-Spring Boot Server
+Spring Boot Server 2.0.0.RELEASE
 
 ## Overview 
 Mock for testing global_position functionality (external entities)
